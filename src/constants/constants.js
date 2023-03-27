@@ -30,7 +30,7 @@ export const projects = [
     description: "this project image to text and filter table and convert to CSV using Django and pytessaract.",
       image: '/images/3.png',
       tags: ['Django', 'pytessaract'],
-    source: 'https://github.com/ObaidOIS/ocr-csv',
+    source: 'https://github.com/ObaidOIS/ocr-to-csv',
     id: 3,
   },
 
