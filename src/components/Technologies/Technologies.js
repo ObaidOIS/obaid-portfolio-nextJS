@@ -21,7 +21,6 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in web development world.
-      From-end to Design
     </SectionText>
     <List>
       <ListItem>
@@ -29,7 +28,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with HTML, CSS, JavaScript, React, Next.js.
+            Experience with HTML, CSS, JavaScript, React JS, Next JS.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,7 +36,7 @@ const Technologies = () => (
         <DiFirebase size={50} color="#fff" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
-          <ListParagraph>Experience with Django and Node.JS</ListParagraph>
+          <ListParagraph>Experience with Django Template and Django Rest Framework</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>

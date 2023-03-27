@@ -48,7 +48,7 @@ const handleScroll = () => {
    <br/>
    <SectionTitle>About Me</SectionTitle>
    <SectionText>
-      <p>I am Obaidullah, a full-stack web developer with a passion for creating beautiful and functional websites. I have a background in computer science and mathematics, and I am currently pursuing a degree in computer science at the Comsats University.</p>
+      <p>I am Obaidullah, Experienced software engineer with a background in web development, machine learning, and blockchain. Passionate about creating innovative solutions that improve user experience and solve complex problems. Skilled in multiple programming languages and frameworks, with a strong focus on clean code and best practices. A lifelong learner dedicated to staying up-to-date with the latest technologies and constantly improving skills.</p>
    </SectionText>
     <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
